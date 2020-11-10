@@ -9,6 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         // This is a test
         // testing 1 2 3
+        // tash is my bestfriend
     }
 
     // Update is called once per frame
