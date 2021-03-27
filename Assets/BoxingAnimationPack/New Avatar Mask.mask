@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Dimples (3)
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:LeftUpLeg
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:LeftUpLeg/DimplesRig:LeftLeg
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:LeftUpLeg/DimplesRig:LeftLeg/DimplesRig:LeftFoot
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:LeftUpLeg/DimplesRig:LeftLeg/DimplesRig:LeftFoot/DimplesRig:LeftToeBase
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:LeftUpLeg/DimplesRig:LeftLeg/DimplesRig:LeftFoot/DimplesRig:LeftToeBase/DimplesRig:LeftToe_End
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:RightUpLeg
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:RightUpLeg/DimplesRig:RightLeg
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:RightUpLeg/DimplesRig:RightLeg/DimplesRig:RightFoot
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:RightUpLeg/DimplesRig:RightLeg/DimplesRig:RightFoot/DimplesRig:RightToeBase
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:RightUpLeg/DimplesRig:RightLeg/DimplesRig:RightFoot/DimplesRig:RightToeBase/DimplesRig:RightToe_End
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm/DimplesRig:LeftForeArm
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm/DimplesRig:LeftForeArm/DimplesRig:LeftHand
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm/DimplesRig:LeftForeArm/DimplesRig:LeftHand/DimplesRig:LeftHandIndex1
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm/DimplesRig:LeftForeArm/DimplesRig:LeftHand/DimplesRig:LeftHandIndex1/DimplesRig:LeftHandIndex2
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm/DimplesRig:LeftForeArm/DimplesRig:LeftHand/DimplesRig:LeftHandIndex1/DimplesRig:LeftHandIndex2/DimplesRig:LeftHandIndex3
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:LeftShoulder/DimplesRig:LeftArm/DimplesRig:LeftForeArm/DimplesRig:LeftHand/DimplesRig:LeftHandIndex1/DimplesRig:LeftHandIndex2/DimplesRig:LeftHandIndex3/DimplesRig:LeftHandIndex4
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:Neck
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:Neck/Skeleton_DimplesRig:Head
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:Neck/Skeleton_DimplesRig:Head/Skeleton_DimplesRig:HeadTop_End
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm/DimplesRig:RightForeArm
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm/DimplesRig:RightForeArm/DimplesRig:RightHand
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm/DimplesRig:RightForeArm/DimplesRig:RightHand/DimplesRig:RightHandIndex1
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm/DimplesRig:RightForeArm/DimplesRig:RightHand/DimplesRig:RightHandIndex1/DimplesRig:RightHandIndex2
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm/DimplesRig:RightForeArm/DimplesRig:RightHand/DimplesRig:RightHandIndex1/DimplesRig:RightHandIndex2/DimplesRig:RightHandIndex3
+    m_Weight: 1
+  - m_Path: DimplesRig:Hips/DimplesRig:Spine/DimplesRig:Spine1/DimplesRig:Spine2/DimplesRig:RightShoulder/DimplesRig:RightArm/DimplesRig:RightForeArm/DimplesRig:RightHand/DimplesRig:RightHandIndex1/DimplesRig:RightHandIndex2/DimplesRig:RightHandIndex3/DimplesRig:RightHandIndex4
+    m_Weight: 1
