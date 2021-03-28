@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
     guid: a9c41884ef0c347628dfd8a4af4a022e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Test_VR_Scene.unity
     guid: f9668f3bb5646480b88573db0074da49
+  - enabled: 1
+    path: Assets/Scenes/main_scene.unity
+    guid: 70a4a3a33d09b424cae1006240d5ae1f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 246b4d02c567149829e9b42a14f50482,
       type: 2}

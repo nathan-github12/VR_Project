@@ -4,16 +4,32 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public bool Attack = false;
+    public bool Punch = false;
+    private Animator animator;
     // Start is called before the first frame update
     void Start()
     {
+        //animator = GetComponentInChildren<Animataor>();
         
     }
 
     // Update is called once per frame
     void Update()
     {
+        //if (playerAttack){
+            //animator.SetBool("Punch", true);
+       //}else{
+        //    animator.SetBool("Punch", false);
+        //}
         
     }
+    //public void Attack(){
+    // //   playerAttack = true;
+    //}
+
+    //public void Defend(){
+      //  playerDefend = true;
+//
+    //}
+
 }

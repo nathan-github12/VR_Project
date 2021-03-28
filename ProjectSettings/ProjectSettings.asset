@@ -128,8 +128,9 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: -837536442774512920, guid: f3607fa2029d14df089b0325f2301781, type: 2}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: -837536442774512920, guid: f3607fa2029d14df089b0325f2301781, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -424,7 +425,7 @@ PlayerSettings:
     m_Automatic: 0
   m_BuildTargetVRSettings:
   - m_BuildTarget: Android
-    m_Enabled: 0
+    m_Enabled: 1
     m_Devices:
     - Oculus
   openGLRequireES31: 0
