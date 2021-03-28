@@ -6,6 +6,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     public bool Punch = false;
     private Animator animator;
+    public Transform target;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +17,9 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(target!=null){
+           transform.LookAt(target);
+       } 
         //if (playerAttack){
             //animator.SetBool("Punch", true);
        //}else{

@@ -456,6 +456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 317d8e2ab90336d4a88836caef102fe1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Punch: 0
+  target: {fileID: 580007566}
 --- !u!1 &1410419321
 GameObject:
   m_ObjectHideFlags: 0
@@ -724,6 +726,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 28a120e7ed8e58a41b53e2cfe79f2579, type: 2}
+    - target: {fileID: 13700002, guid: c7f0106764ee15349a4c9565526c0077, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7f0106764ee15349a4c9565526c0077, type: 3}
 --- !u!1 &1602401856 stripped
@@ -769,6 +775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84a98eb1c8a7e473498d6a70a642bed6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  target: {fileID: 2081400177}
 --- !u!136 &1602401860
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -811,7 +818,7 @@ Transform:
   m_GameObject: {fileID: 1632405787}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children: []
   m_Father: {fileID: 1410419322}
   m_RootOrder: 2
@@ -942,7 +949,7 @@ Transform:
   m_GameObject: {fileID: 1888756666}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children: []
   m_Father: {fileID: 1410419322}
   m_RootOrder: 1
